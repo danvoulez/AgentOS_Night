@@ -1,1 +1,0 @@
-"""AgentOS Sales Service – FastAPI application package."""

@@ -1,5 +1,0 @@
-# agentos-pessoas/requirements.txt
-fastapi
-loguru
-pydantic
-motor
