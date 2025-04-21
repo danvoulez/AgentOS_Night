@@ -1,0 +1,1 @@
+# Makefile with automation commands

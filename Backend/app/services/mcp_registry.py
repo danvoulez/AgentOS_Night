@@ -1,0 +1,1 @@
+# mcp_registry.py content from previous response
